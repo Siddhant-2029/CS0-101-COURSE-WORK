@@ -53,7 +53,7 @@ int main(){
     if(seatTypeCode==2){printf("GOLD\n");}
     if(seatTypeCode==3){printf("PLATINUM\n");}
     if(seatTypeCode==4){printf("RECLINER\n");};
-    printf("%d",tickets);
+    printf("Tickets : %d\n",tickets);
     printf("Add-ons : Popcorn=%d, Water=%d\n\n",popcornQty,waterQty);
     printf("--- Charges ---\n");
     printf("Ticket Subtotal : %.2f\n",ticketSubtotal);
