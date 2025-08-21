@@ -1,0 +1,24 @@
+# Ignore compiled object files
+*.o
+
+# Ignore Windows executables
+*.exe
+
+# Ignore static & dynamic libraries
+*.lib
+*.dll
+
+# Ignore debug and release build directories
+/Debug/
+/Release/
+/bin/
+/build/
+/obj/
+
+# Ignore logs
+*.log
+
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
